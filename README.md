@@ -36,4 +36,14 @@ http://plan.51xuanxiao.com/article-5302
 
 http://baijiahao.baidu.com/s?id=1647450872676242171
 
-
+- 央视《高考》纪录片
+  - https://www.bilibili.com/bangumi/play/ss33971/
+  - https://www.zhihu.com/question/33984061
+  - https://www.youtube.com/watch?v=WAmtH91S2GQ
+- 央视《科举》纪录片
+  - https://www.bilibili.com/video/BV1Gx411W7ky?from=search&seid=1969031817726660865
+  - http://tv.cctv.com/2013/07/23/VIDA1374548776737690.shtml
+  - https://www.youtube.com/watch?v=4U-B4mQW_eQ
+- 古代科举考试考什么？科举制度为何能延续1300年？ - 李永乐老师
+  - https://www.youtube.com/watch?v=6Hgk8GApTqw
+  

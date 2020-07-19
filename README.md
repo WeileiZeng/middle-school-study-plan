@@ -8,10 +8,17 @@
   - 更清晰的目标
   - 学会使用PPT汇报
 - 课程对象：谦谦 小逸
+- 课程网站：https://github.com/WeileiZeng/middle-school-study-plan
+- 网课链接
+  - https://voovmeeting.com/s/y6TMZOwa7mec
+  - Meeting ID: 569 075 541
+  - 软件：腾讯会议
+
+
 
 ## 课程计划
 - 1 学业规划介绍
-  - 作业：仿照[模版](http://plan.51xuanxiao.com/article-5377)创作一份
+  - 作业：仿照[模版](作业1-学业规划报告模板.docx)创作一份
 - 2 具体分析
   - 作业： 完善
 - 3 单独讨论
